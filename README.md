@@ -1,6 +1,6 @@
 # Responsive Image Search App (React)
 
-A minimalist and fully responsive Image Search Application built with https://github.com/talhaw-cmd/react-image-finder/raw/refs/heads/main/src/react-image-finder-2.9.zip and the Pixabay REST API.  
+A minimalist and fully responsive Image Search Application built with React.js and the Pixabay REST API.  
 The project uses pure CSS for styling (no Tailwind or UI libraries) and focuses on clean code and real responsiveness.
 
 ---
@@ -16,7 +16,7 @@ The project uses pure CSS for styling (no Tailwind or UI libraries) and focuses 
 ---
 
 ## Tech Stack
-- https://github.com/talhaw-cmd/react-image-finder/raw/refs/heads/main/src/react-image-finder-2.9.zip
+- React.js
 - Axios
 - Pixabay REST API
 - Pure CSS (Flexbox + CSS Grid)
